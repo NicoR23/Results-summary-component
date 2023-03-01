@@ -21,6 +21,7 @@ body {
   max-height: 45rem;
   max-width: 20.9rem;
   background-color: hsl(0, 0%, 100%);
+  
 }
 .container__result {
   background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
@@ -144,7 +145,7 @@ body {
     max-width: 740px;
     border-radius: 30px;
     overflow: hidden;
-    margin: 100px 0;
+    margin-top: 150px;
     box-shadow: 5px 8px 30px 0px rgba(200, 199, 255, 0.4039215686);
   }
   .container__result {
